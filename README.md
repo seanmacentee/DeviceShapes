@@ -1,5 +1,5 @@
 # CSS & SVG Device Shapes
-This a collection of responsive, lightweight CSS & SVG device shapes. The goal here was to create responsive device shapes with minimal markup and to keep filesize as small as possible. 
+This a collection of responsive, lightweight CSS & SVG device shapes. The goal here was to create responsive device shapes with minimal markup and to keep filesize as small as possible. Full blog post about it [here](https://seanmacentee.com/ridiculously-lightweight-responsive-css-svg-device-shapes/).
 I also wanted to embed html content within the device screens so CSS is easier to work with than SVG for that. It's as simple as doing this:
 
 ```
