@@ -1,0 +1,51 @@
+/* The laptop with borders */
+.laptop {
+  left: 10%;
+  position: absolute;
+  width: 80%;
+  height: 0%;
+  border-radius: 6px;
+  background-color: black;
+  border: 3px solid #000;
+  padding-bottom: 50%;
+}
+
+/* The keyboard of the laptop */
+.laptop:after {
+  content: '';
+  display: block;
+  position: absolute;
+  width: 116%;
+  height: 6%;
+  margin-left: -8%;
+  top: 100%;
+  background: black;
+  border-radius: 6px;
+}
+
+/* The top of the keyboard */
+.laptop:before {
+  content: '';
+  display: block;
+  position: absolute;
+  width: 32%;
+  height: 3%;
+  top: 100%;
+  left: 34%;
+  background: #777;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  z-index: 1;
+}
+
+/* The screen (or content) of the device */
+.laptop .content {
+    width: 98%;
+    height: 98%;
+    overflow: hidden;
+    border: none;
+    background: #333;
+    position: absolute;
+    margin-top: 1%;
+    margin-left: 1%;
+}

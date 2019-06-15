@@ -1,0 +1,7 @@
+<svg id="smartphone" style="position: relative" viewBox="0 0 400 700" xmlns="http://www.w3.org/2000/svg">
+  <rect id="outline" width="100%" height="100%" rx="45" style="fill:#000;" />
+  <rect id="content" x="3%" y="2%" width="94%" height="96%" rx="34" style="fill:#fff; position: absolute; left: 1%" />
+  <rect id="notch" x="30%" y="0%" width="40%" height="35" rx="15" style="fill:#000; position: absolute;" />
+  <rect id="earpiece" x="44%" y="17" width="12%" height="6" rx="3" style="fill:#555; position: absolute;" />
+  <circle id="camera" cx="61%" cy="20" r="6" stroke="#fff" stroke-width="0" fill="#555" />
+</svg>

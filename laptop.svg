@@ -1,0 +1,7 @@
+<svg id="laptop" style="position: relative" viewBox="0 0 700 415" xmlns="http://www.w3.org/2000/svg">
+  <rect id="outline" x="65" width="570" height="400" rx="15" style="fill:#000;" />
+  <rect id="content" x="80" y="15" width="540" height="370" rx="5" style="fill:#fff;" />
+  <circle id="camera" cx="50%" cy="7" r="4" stroke="#fff" stroke-width="0" fill="#555" />
+  <rect id="keyboard" x="0" y="390" width="700" height="25" rx="5" style="fill:#000;" />
+  <rect id="trackpad" x="260" y="390" width="180" height="12" rx="5" style="fill:#999;" />
+</svg>

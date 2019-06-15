@@ -1,0 +1,6 @@
+<svg id="desktop" style="position: relative" viewBox="0 0 600 500" xmlns="http://www.w3.org/2000/svg">
+  <rect id="outline" x="0" width="600" height="400" rx="10" style="fill:#000;"></rect>
+  <rect id="content" x="10" y="10" width="580" height="380" rx="2" style="fill:#fff;"></rect>
+  <polygon id="base" style="fill:#000;" points="250,400 350,400 375,480, 225,480"></polygon>
+  <rect id="bottombase" x="150" y="480" width="300" height="5" rx="2" style="fill:#000;"></rect>
+</svg>
